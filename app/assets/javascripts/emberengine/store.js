@@ -1,4 +1,4 @@
-Emberengine.Store = DS.Store.extend({
+Emberengine.ApplicationStore = DS.Store.extend({
 
 });
 
