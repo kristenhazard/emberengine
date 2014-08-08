@@ -18,6 +18,8 @@
 //= require ./emberengine
 
 // for more details see: http://emberjs.com/guides/application/
-Emberengine = Ember.Application.create();
+Emberengine = Ember.Application.create({
+  LOG_TRANSITIONS: true
+});
 
 //= require_tree .

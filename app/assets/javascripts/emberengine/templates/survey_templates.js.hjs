@@ -1,0 +1,3 @@
+<h1>Survey Templates</h1>
+
+{{outlet}}
