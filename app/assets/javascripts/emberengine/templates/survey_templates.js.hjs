@@ -1,3 +1,3 @@
-<h1>Survey Templates</h1>
+<h1>Survey Templates from inside templates directory</h1>
 
 {{outlet}}

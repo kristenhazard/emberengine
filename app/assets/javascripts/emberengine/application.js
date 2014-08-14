@@ -16,6 +16,7 @@
 //= require ember-data
 //= require_self
 //= require ./emberengine
+//= require ./templates/all
 
 // for more details see: http://emberjs.com/guides/application/
 Emberengine = Ember.Application.create({
